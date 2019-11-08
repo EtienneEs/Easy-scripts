@@ -1,0 +1,10 @@
+{
+    "Job": {
+        "sourcepath": "C:/Users/YourUsername/Desktop/Test1/A/test.xlsx",
+        "destpath": "C:/Users/YourUsername/Desktop/Test1/B/test.xlsx"
+    },
+    "Job2": {
+        "sourcepath": "C:/Users/YourUsername/Desktop/Test1/A/test.xlsx",
+        "destpath": "C:/Users/YourUsername/Desktop/Test1/B/test.xlsx"
+    }
+}
