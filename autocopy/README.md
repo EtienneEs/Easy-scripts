@@ -1,7 +1,7 @@
 # Autocopy
 
 [ > Setup ](#Setup)  
-[_> How to make it an app/executable_](#Appmaker)
+[_> How to make it an app/executable_](#Appmaker)  
 [ > How to Schedule Tasks on Windows ](#Schedule_Tasks)
 
 
@@ -78,11 +78,10 @@ conda info --envs
   - Browse to your script (make sure that autocopy_settings.json is in the folder as well)
   - recomended: put in your directory path to your .exe file in the "Start in (optional)" field.
 
-Done - Make sure that it works by manually run it with right click on the schedule and __Run__.
+__Done__ - Make sure that it works by manually run it with right click on the schedule and __Run__.
 
-
-.... How to schedule Tasks on Windows will be written soon ...
-
+I hope you had fun with this little Tutorial. If you have Question don't hesitate to ask ;)
+Enjoy!
 
 [1]: ../autocopy/autocopy.py
 [2]: ../autocopy/autocopy_settings.json
